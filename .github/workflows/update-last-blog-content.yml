@@ -1,4 +1,4 @@
-name: Workflow Blog Post
+name: Update Last Blog Content
 on:
   schedule:
     # Runs action every hour
