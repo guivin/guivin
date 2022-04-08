@@ -54,6 +54,8 @@ Actually:
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/guivin/dotfiles/pull/2) in [guivin/dotfiles](https://github.com/guivin/dotfiles)
+2. 💪 Opened PR [#2](https://github.com/guivin/dotfiles/pull/2) in [guivin/dotfiles](https://github.com/guivin/dotfiles)
 <!--END_SECTION:activity-->
 
 ## 📖 Last Blog Content
