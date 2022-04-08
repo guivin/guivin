@@ -1,6 +1,6 @@
 # guivin  
 
-Hi there! 👋 I'm Guillaume from France 🇫🇷 DevOps engineer ⚙️ and certified AWS Solution Architectt️☁️. I create learning content about DevOps. I really
+Hi there! 👋 I'm Guillaume from France 🇫🇷 DevOps engineer ⚙️ and certified AWS Solution Architect ☁️. I create learning content about DevOps. I really
 enjoy learning cloud computing and cloud-native technologies like Kubernetes.
 
 <!--
@@ -67,4 +67,3 @@ Actually:
 - [How To Use and Benefit From AWS Bottlerocket In EKS](https://getbetterdevops.io/aws-bottlerocket-in-eks/)
 - [How To Configure a 301 Redirect on Ghost Blog &amp; DigitalOcean](https://getbetterdevops.io/configure-301-redirect-on-ghost-blog/)
 <!-- BLOG-POST-LIST:END -->
-
