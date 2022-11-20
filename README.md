@@ -1,17 +1,22 @@
-# guivin  
+# Welcome  
 
-Hi there! 👋 I'm Guillaume from France 🇫🇷 DevOps engineer ⚙️ and certified AWS Solution Architect ☁️. I create learning content about DevOps. I really
-enjoy learning cloud computing and cloud-native technologies like Kubernetes.
+Hi there and welcome to my GitHub! 👋
+
+My name is Guillaume and I live in France 🇫🇷 I work as a freelance DevOps engineer.
+
+I am particularly interested in everything related to cloud-native and cloud technologies ⚙️
+
+Also, I share content about the DevOps philosophy and its ecosystem on my blog.
 
 <!--
 **guivin/guivin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Actually:
 
-- 🔭 I'm currently working on my blog
-- 🌱 I’m currently learning new amazing cloud-native technologies
-- 👯 I help people to learn DevOps
-- ⚡ Hobbies: trail, hiking, animals, gardening
+- 🔭 I'm preparing a new batch of articles on my blog and Medium
+- 🌱 I'm discovering & having fun with FaaS (Function as a Service) and NodeJS
+- 👯 I share my everyday’s discoveries and help people to learn DevOps
+- ⚡ Hobbies: my dog 🐶, trailing, hiking & gardening
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guillaume-vincent-devops) or [email](mailto:contact@getbetterdevops.io) 
 
 
