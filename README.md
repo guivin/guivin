@@ -1,4 +1,4 @@
-# Welcome  
+# Welcome!
 
 Hi there and welcome to my GitHub! 👋
 
@@ -20,7 +20,7 @@ Actually:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guillaume-vincent-devops) or [email](mailto:contact@getbetterdevops.io) 
 
 
-## 👋 Connect with me
+## 👋 Connect With Me
 
 [![img_contact](./img/globe-light.svg)](https://getbetterdevops.io#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://getbetterdevops.io#gh-dark-mode-only)
@@ -31,7 +31,7 @@ Actually:
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/guillaume-vincent-devops/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/guillaume-vincent-devops/#gh-dark-mode-only)
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
 [<img align="left" alt="Intellj IDEA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />](https://www.jetbrains.com/idea/)
 [<img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />](https://www.terraform.io/)
