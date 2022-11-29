@@ -68,9 +68,9 @@ Actually:
 ## 📖 Last Blog Content
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Deploy Google Cloud Functions With Terraform](https://getbetterdevops.io/google-cloud-functions-with-terraform/)
 - [How To Keep Your Terraform Code Clean, The Sustainable Way](https://getbetterdevops.io/terraform-clean-code/)
 - [How To Setup Prometheus &lpar;Operator&rpar; and Grafana Monitoring On Kubernetes](https://getbetterdevops.io/setup-prometheus-and-grafana-on-kubernetes/)
 - [What Is Helm? A Quickstart Tutorial For Kubernetes Beginners](https://getbetterdevops.io/helm-quickstart-tutorial/)
 - [How To Use and Benefit From AWS Bottlerocket In EKS](https://getbetterdevops.io/aws-bottlerocket-in-eks/)
-- [How To Configure a 301 Redirect on Ghost Blog &amp; DigitalOcean](https://getbetterdevops.io/configure-301-redirect-on-ghost-blog/)
 <!-- BLOG-POST-LIST:END -->
