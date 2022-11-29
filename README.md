@@ -61,8 +61,8 @@ Actually:
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/guivin/dotfiles/pull/2) in [guivin/dotfiles](https://github.com/guivin/dotfiles)
-2. 💪 Opened PR [#2](https://github.com/guivin/dotfiles/pull/2) in [guivin/dotfiles](https://github.com/guivin/dotfiles)
+1. 🎉 Merged PR [#1](https://github.com/guivin/google-cloud-function-with-terraform-example/pull/1) in [guivin/google-cloud-function-with-terraform-example](https://github.com/guivin/google-cloud-function-with-terraform-example)
+2. 💪 Opened PR [#1](https://github.com/guivin/google-cloud-function-with-terraform-example/pull/1) in [guivin/google-cloud-function-with-terraform-example](https://github.com/guivin/google-cloud-function-with-terraform-example)
 <!--END_SECTION:activity-->
 
 ## 📖 Last Blog Content
