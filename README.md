@@ -61,8 +61,8 @@ Actually:
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/guivin/TP-SYSOPS/pull/4) in [guivin/TP-SYSOPS](https://github.com/guivin/TP-SYSOPS)
-2. 🎉 Merged PR [#3](https://github.com/guivin/TP-SYSOPS/pull/3) in [guivin/TP-SYSOPS](https://github.com/guivin/TP-SYSOPS)
+1. ❌ Closed PR [#2](https://github.com/guivin/terraform-modules-boilerplate/pull/2) in [guivin/terraform-modules-boilerplate](https://github.com/guivin/terraform-modules-boilerplate)
+2. 🎉 Merged PR [#4](https://github.com/guivin/TP-SYSOPS/pull/4) in [guivin/TP-SYSOPS](https://github.com/guivin/TP-SYSOPS)
 <!--END_SECTION:activity-->
 
 ## 📖 Last Blog Content
