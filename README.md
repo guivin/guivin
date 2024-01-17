@@ -1,24 +1,18 @@
 # Welcome!
 
-Hi there and welcome to my GitHub! 👋
+Hello and welcome to my GitHub! 👋
 
-My name is Guillaume and I live in France 🇫🇷 I work as a freelance DevOps engineer.
+I'm Guillaume, hailing from the picturesque landscapes of France 🇫🇷. As a passionate freelance DevOps engineer, I immerse myself in the dynamic world of cloud-native technologies and cloud solutions ⚙️.
 
-I am particularly interested in everything related to cloud-native and cloud technologies ⚙️
+Beyond my professional pursuits, I dedicate time to demystify the DevOps philosophy through my blog, where I share insights and experiences from the field.
 
-Also, I share content about the DevOps philosophy and its ecosystem on my blog.
+Currently, I'm engaged in:
 
-<!--
-**guivin/guivin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Actually:
-
-- 🔭 I'm preparing a new batch of articles on my blog and Medium
-- 🌱 I'm discovering & having fun with FaaS (Function as a Service) and NodeJS
-- 👯 I share my everyday’s discoveries and help people to learn DevOps
-- ⚡ Hobbies: my dog 🐶, trailing, hiking & gardening
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guillaume-vincent-devops) or [email](mailto:contact@getbetterdevops.io) 
-
+🔭 Crafting a fresh series of articles for my [blog](https://getbetterdevops.io/) and on [Medium](https://medium.com/@guivin), aiming to enlighten and inspire.
+🌱 Exploring the serverless possibilities with Node.js, a journey filled with discovery and enjoyment.
+👯 Actively sharing my daily DevOps discoveries, with a mission to educate and support fellow enthusiasts.
+⚡ When I'm not delving into technology, I find joy in moments with my dog 🐶, the thrill of trailing, serene hikes, and the art of gardening.
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-vincent-devops) or drop an [email](mailto:contact@getbetterdevops.io) for any collaborations or just a friendly chat about DevOps!
 
 ## 👋 Connect With Me
 
