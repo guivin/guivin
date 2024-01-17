@@ -9,9 +9,13 @@ Beyond my professional pursuits, I dedicate time to demystify the DevOps philoso
 Currently, I'm engaged in:
 
 🔭 Crafting a fresh series of articles for my [blog](https://getbetterdevops.io/) and on [Medium](https://medium.com/@guivin), aiming to enlighten and inspire.
+
 🌱 Exploring the serverless possibilities with Node.js, a journey filled with discovery and enjoyment.
+
 👯 Actively sharing my daily DevOps discoveries, with a mission to educate and support fellow enthusiasts.
+
 ⚡ When I'm not delving into technology, I find joy in moments with my dog 🐶, the thrill of trailing, serene hikes, and the art of gardening.
+
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-vincent-devops) or drop an [email](mailto:contact@getbetterdevops.io) for any collaborations or just a friendly chat about DevOps!
 
 ## 👋 Connect With Me
