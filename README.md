@@ -66,9 +66,5 @@ Currently, I'm engaged in:
 ## 📖 Last Blog Content
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Deploy Google Cloud Functions With Terraform](https://getbetterdevops.io/google-cloud-functions-with-terraform/)
-- [How To Keep Your Terraform Code Clean, The Sustainable Way](https://getbetterdevops.io/terraform-clean-code/)
-- [How To Setup Prometheus &lpar;Operator&rpar; and Grafana Monitoring On Kubernetes](https://getbetterdevops.io/setup-prometheus-and-grafana-on-kubernetes/)
-- [What Is Helm? A Quickstart Tutorial For Kubernetes Beginners](https://getbetterdevops.io/helm-quickstart-tutorial/)
-- [How To Use and Benefit From AWS Bottlerocket In EKS](https://getbetterdevops.io/aws-bottlerocket-in-eks/)
+- [Comprendre la Philosophie DevOps : Une Introduction](https://carnets-du-devops.fr/comprendre-la-philosophie-devops-une-introduction/)
 <!-- BLOG-POST-LIST:END -->
