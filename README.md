@@ -8,7 +8,7 @@ Beyond my professional pursuits, I dedicate time to demystify the DevOps philoso
 
 Currently, I'm engaged in:
 
-🔭 Crafting a fresh series of articles for my [blog](https://getbetterdevops.io/) and on [Medium](https://medium.com/@guivin)
+🔭 Crafting a fresh series of articles for my [blog](https://carnets-du-devops.fr/) and on [Medium](https://medium.com/@guivin)
 
 🌱 Exploring the serverless possibilities with Node.js
 
