@@ -66,5 +66,6 @@ Currently, I'm engaged in:
 ## 📖 Last Blog Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker pour DevOps : Guide Complet sur les Conteneurs et leurs Fonctionnements](https://carnets-du-devops.fr/guide-docker-conteneurs-pour-devops/)
 - [Comprendre la Philosophie DevOps : Une Introduction](https://carnets-du-devops.fr/comprendre-la-philosophie-devops-une-introduction/)
 <!-- BLOG-POST-LIST:END -->
