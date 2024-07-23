@@ -66,6 +66,7 @@ Currently, I'm engaged in:
 ## 📖 Last Blog Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Déployer et Configurer Kubernetes avec Docker Desktop](https://carnets-du-devops.fr/deployer-et-configurer-kubernetes-avec-docker-desktop/)
 - [Docker pour DevOps : Guide Complet sur les Conteneurs et leurs Fonctionnements](https://carnets-du-devops.fr/guide-docker-conteneurs-pour-devops/)
 - [Comprendre la Philosophie DevOps : Une Introduction](https://carnets-du-devops.fr/comprendre-la-philosophie-devops-une-introduction/)
 <!-- BLOG-POST-LIST:END -->
