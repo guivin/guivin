@@ -66,6 +66,7 @@ Currently, I'm engaged in:
 ## 📖 Last Blog Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Déployez Votre Première Application avec Kubernetes](https://carnets-du-devops.fr/deployer-votre-premiere-application-avec-kubernetes/)
 - [Kubernetes : Pourquoi il est Essentiel et Comment il Fonctionne](https://carnets-du-devops.fr/introduction-kubernetes/)
 - [Déployer et Configurer Kubernetes avec Docker Desktop](https://carnets-du-devops.fr/deployer-et-configurer-kubernetes-avec-docker-desktop/)
 - [Conteneurs et Docker : Tout ce Qu’il Faut Savoir pour Débuter](https://carnets-du-devops.fr/guide-docker-conteneurs-pour-devops/)
