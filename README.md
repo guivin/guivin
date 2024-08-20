@@ -66,9 +66,9 @@ Currently, I'm engaged in:
 ## 📖 Last Blog Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Configurer Prometheus et Grafana pour l’Observabilité sur Kubernetes](https://carnets-du-devops.fr/configurer-prometheus-grafana-observabilite-kubernetes/)
 - [Comment Installer Helm Pour Kubernetes](https://carnets-du-devops.fr/comment-installer-helm-pour-kubernetes/)
 - [GitOps avec ArgoCD : Simplifiez et Automatisez vos Déploiements Kubernetes](https://carnets-du-devops.fr/gitops-avec-argocd-simplifiez-et-automatisez-vos-deploiements-kubernetes/)
 - [Kubernetes : Optimisez le Déploiement de vos Applications avec Helm pour une Gestion Efficace](https://carnets-du-devops.fr/kubernetes-optimiser-deploiement-applications-avec-helm/)
 - [Déployez Votre Première Application avec Kubernetes](https://carnets-du-devops.fr/deployer-votre-premiere-application-avec-kubernetes/)
-- [Kubernetes : Pourquoi il est Essentiel et Comment il Fonctionne](https://carnets-du-devops.fr/introduction-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
