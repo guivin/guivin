@@ -66,9 +66,9 @@ Currently, I'm engaged in:
 ## 📖 Last Blog Content
 
 <!-- BLOG-POST-LIST:START -->
+- [GitOps avec ArgoCD : Simplifiez et Automatisez vos Déploiements Kubernetes](https://carnets-du-devops.fr/gitops-avec-argocd-simplifiez-et-automatisez-vos-deploiements-kubernetes/)
 - [Kubernetes : Optimisez le Déploiement de vos Applications avec Helm pour une Gestion Efficace](https://carnets-du-devops.fr/kubernetes-optimiser-deploiement-applications-avec-helm/)
 - [Déployez Votre Première Application avec Kubernetes](https://carnets-du-devops.fr/deployer-votre-premiere-application-avec-kubernetes/)
 - [Kubernetes : Pourquoi il est Essentiel et Comment il Fonctionne](https://carnets-du-devops.fr/introduction-kubernetes/)
 - [Déployer et Configurer Kubernetes avec Docker Desktop](https://carnets-du-devops.fr/deployer-et-configurer-kubernetes-avec-docker-desktop/)
-- [Conteneurs et Docker : Tout ce Qu’il Faut Savoir pour Débuter](https://carnets-du-devops.fr/guide-docker-conteneurs-pour-devops/)
 <!-- BLOG-POST-LIST:END -->
