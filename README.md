@@ -59,7 +59,7 @@ Currently, I'm engaged in:
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/guivin/dotfiles/pull/4) in [guivin/dotfiles](https://github.com/guivin/dotfiles)
+1. ❗ Opened issue [#163](https://github.com/stephrobert/awesome-french-devops/issues/163) in [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops)
 2. 🎉 Merged PR [#5](https://github.com/guivin/dotfiles/pull/5) in [guivin/dotfiles](https://github.com/guivin/dotfiles)
 <!--END_SECTION:activity-->
 
