@@ -1,22 +1,12 @@
 # Welcome!
 
-Hello and welcome to my GitHub! 👋
+Welcome to my GitHub! 👋
 
-I'm Guillaume, hailing from the picturesque landscapes of France 🇫🇷. As a passionate freelance DevOps engineer, I immerse myself in the dynamic world of cloud-native technologies and cloud solutions ⚙️.
+I’m Guillaume Vincent, a freelance DevOps Engineer from France 🇫🇷. I specialize in cloud-native technologies, cloud-computing, automation, and infrastructure as code. My passion? Helping businesses scale their infrastructure while sharing best practices with the DevOps community.
 
-Beyond my professional pursuits, I dedicate time to demystify the DevOps philosophy through my blog, where I share insights and experiences from the field.
+I also run a blog, Carnets du DevOps, where I break down complex DevOps concepts and share practical insights from the field.
 
-Currently, I'm engaged in:
-
-🔭 Crafting a fresh series of articles for my [blog](https://carnets-du-devops.fr/) and on [Medium](https://medium.com/@guivin)
-
-🌱 Exploring the serverless possibilities with Node.js
-
-👯 Actively sharing my daily DevOps discoveries.
-
-⚡ When I'm not delving into technology, I find joy in moments with my dog 🐶, trailing, hiking, and gardening.
-
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-vincent-devops) or drop an [email](mailto:contact@getbetterdevops.io) for any collaborations or just a friendly chat about DevOps!
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-vincent-devops) or drop an [email](mailto:contact@getbetterdevops.io) for any collaborations or just a chat about DevOps!
 
 ## 👋 Connect With Me
 
