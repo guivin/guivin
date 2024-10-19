@@ -1,6 +1,4 @@
-# Welcome!
-
-Welcome to my GitHub! 👋
+# Welcome to my GitHub! 👋
 
 I’m Guillaume Vincent, a freelance DevOps Engineer from France 🇫🇷. I specialize in cloud-native technologies, cloud-computing, automation, and infrastructure as code. My passion? Helping businesses scale their infrastructure while sharing best practices with the DevOps community.
 
