@@ -47,8 +47,8 @@ I also run a blog, Carnets du DevOps, where I break down complex DevOps concepts
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#163](https://github.com/stephrobert/awesome-french-devops/issues/163) in [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops)
-2. ❗ Opened issue [#163](https://github.com/stephrobert/awesome-french-devops/issues/163) in [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops)
+1. ❗ Opened issue [#88](https://github.com/supabase-community/supabase-kubernetes/issues/88) in [supabase-community/supabase-kubernetes](https://github.com/supabase-community/supabase-kubernetes)
+2. 🔒 Closed issue [#163](https://github.com/stephrobert/awesome-french-devops/issues/163) in [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops)
 <!--END_SECTION:activity-->
 
 ## 📖 Last Blog Content
