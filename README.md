@@ -4,7 +4,7 @@ I’m Guillaume Vincent, a freelance DevOps Engineer from France 🇫🇷. I spe
 
 I also run a blog, Carnets du DevOps, where I break down complex DevOps concepts and share practical insights from the field.
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-vincent-devops) or drop an [email](mailto:contact@getbetterdevops.io) for any collaborations or just a chat about DevOps!
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-vincent-devops) for any collaborations or just a chat about DevOps!
 
 ## 👋 Connect With Me
 
