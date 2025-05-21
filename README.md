@@ -54,9 +54,7 @@ I also run a blog, Carnets du DevOps, where I break down complex DevOps concepts
 ## 📖 Last Blog Content
 
 <!-- BLOG-POST-LIST:START -->
-- [Les 5 Piliers CALMS pour Construire une Culture DevOps Réussie](https://carnets-du-devops.fr/5-piliers-cles-pour-une-culture-devops-reussie-en-entreprise/)
-- [Configurer Prometheus et Grafana pour l’Observabilité sur Kubernetes](https://carnets-du-devops.fr/configurer-prometheus-grafana-observabilite-kubernetes/)
-- [Comment Installer Helm Pour Kubernetes](https://carnets-du-devops.fr/comment-installer-helm-pour-kubernetes/)
-- [GitOps avec ArgoCD : Simplifiez et Automatisez vos Déploiements Kubernetes](https://carnets-du-devops.fr/gitops-avec-argocd-simplifiez-et-automatisez-vos-deploiements-kubernetes/)
-- [Kubernetes : Optimisez le Déploiement de vos Applications avec Helm pour une Gestion Efficace](https://carnets-du-devops.fr/kubernetes-optimiser-deploiement-applications-avec-helm/)
+- [Managing Infrastructure and Configuration Together: Terraform Meets Ansible](https://guivin.github.io/posts/managing-infrastructure-and-configuration-together-terraform-meets-ansible/)
+- [How to Fix Missing Terraform Darwin ARM64 Binary Issues](https://guivin.github.io/posts/terraform-arm64-macos-workaround/)
+- [DIY: Monitor Temperature and Humidity with DHT22/AM2302 and Prometheus](https://guivin.github.io/posts/monitor-temperature-humidity-dht22-am2302-prometheus/)
 <!-- BLOG-POST-LIST:END -->
