@@ -1,21 +1,14 @@
-# Welcome to my GitHub! 👋
+# Hello, I'm Guillaume Vincent 👋
 
-I’m Guillaume Vincent, a freelance DevOps Engineer from France 🇫🇷. I specialize in cloud-native technologies, cloud-computing, automation, and infrastructure as code. My passion? Helping businesses scale their infrastructure while sharing best practices with the DevOps community.
+I'm a **Site Reliability Engineer (SRE)** based in France 🇫🇷. I build and operate **reliable, scalable, and secure infrastructure** across AWS, GCP, Azure, OVH and Scaleway.
 
-I also run a blog, Carnets du DevOps, where I break down complex DevOps concepts and share practical insights from the field.
+I focus on **automation**, **cloud-native platforms** and **resilient system design** to help teams ship faster and safer.
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guillaume-vincent-devops) for any collaborations or just a chat about DevOps!
-
-## 👋 Connect With Me
-
-[![img_contact](./img/globe-light.svg)](https://getbetterdevops.io#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://getbetterdevops.io#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/twitter-light.svg)](https://twitter.com/guivin_#gh-light-mode-only)
-[![img_contact](./img/twitter-dark.svg)](https://twitter.com/guivin_#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/guillaume-vincent-devops/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/guillaume-vincent-devops/#gh-dark-mode-only)
+---
+## 🤝 Let’s connect
+Always open to collaborate or chat about infrastructure challenges.
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/guivin/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/guivin/#gh-dark-mode-only)
 
 ## 🛠️ Languages & Tools
 
