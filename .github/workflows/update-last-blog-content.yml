@@ -18,4 +18,4 @@ jobs:
       - name: Pull in Substack posts
         uses: gautamkrishnar/blog-post-workflow@1.8.8
         with:
-          feed_list: "https://resilientops.substack.com/feed"
+          feed_list: "https://guivin.github.io/atom.xml"
