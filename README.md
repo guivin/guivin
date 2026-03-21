@@ -12,7 +12,7 @@ I focus on **automation**, **cloud-native platforms** and **resilient system des
 
 ## ⭐ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guivin&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guivin&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,issues,reviews)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📖 Last Blog Content
 
