@@ -20,6 +20,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=guivin&theme=dark&hide_border=false&background=09131B&stroke=0c1a25&ring=3B1F94&fire=FFE500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFE500&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=guivin&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=darkhub" alt="GitHub Trophies" />
+  </a>
+</p>
+
 -------
 
 ## ✍️ Blog
