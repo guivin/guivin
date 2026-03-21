@@ -16,13 +16,13 @@
 
 ## ⭐ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guivin&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,issues,reviews)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guivin&layout=compact&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guivin&show_icons=true&hide_border=false&title_color=3B1F94&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,issues,reviews)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=guivin&theme=dark&hide_border=false&background=09131B&stroke=0c1a25&ring=3B1F94&fire=FFE500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFE500&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
 -------
 
-## 📖 Last Blog Content
+## ✍️ Blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Managing Infrastructure and Configuration Together: Terraform Meets Ansible](https://guivin.github.io/posts/managing-infrastructure-and-configuration-together-terraform-meets-ansible/)
