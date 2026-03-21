@@ -1,8 +1,12 @@
 # Hello, I'm Guillaume Vincent 👋
 
-I work as a **Site Reliability Engineer (SRE)** based in France 🇫🇷. I build and operate **reliable, scalable, and secure infrastructure** across AWS, GCP, Azure, OVH and Scaleway.
+I'm a Site Reliability Engineer at [Datadome](https://datadome.co) 🇫🇷,
+working on high-scale infrastructure for intent-based fraud detection.
 
-I focus on **automation**, **cloud-native platforms** and **resilient system design** to help teams ship faster and safer.
+I'm passionate about observability 📊, automation ⚙️ and toil reduction 🔥.
+Ask me about building resilient systems that fix themselves before you wake up.
+
+When I'm not waiting for Terraform to plan 😅, I'm trail running 🏃, hiking 🥾 or gardening 🌱.
 
 <a href="https://guivin.github.io"><img src="img/globe-dark.svg#gh-dark-mode-only" height="20" /><img src="img/globe-light.svg#gh-light-mode-only" height="20" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/guivin"><img src="img/linkedin-dark.svg#gh-dark-mode-only" height="20" /><img src="img/linkedin-light.svg#gh-light-mode-only" height="20" /></a>
