@@ -27,7 +27,6 @@
 ## ✍️ Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Infrastructure and Configuration Together: Terraform Meets Ansible](https://guivin.github.io/blog/managing-infrastructure-and-configuration-together-terraform-meets-ansible/)
-- [How to Fix Missing Terraform Darwin ARM64 Binary Issues](https://guivin.github.io/blog/terraform-arm64-macos-workaround/)
-- [DIY: Monitor Temperature and Humidity with DHT22/AM2302 and Prometheus](https://guivin.github.io/blog/monitor-temperature-humidity-dht22-am2302-prometheus/)
+- [Gérer l&#39;infrastructure et la configuration ensemble : Terraform rencontre Ansible](https://guivin.github.io/blog/gerer-infrastructure-et-configuration-terraform-ansible/)
+- [DIY : Surveiller la température et l&#39;humidité avec DHT22/AM2302 et Prometheus](https://guivin.github.io/blog/surveiller-temperature-humidite-dht22-am2302-prometheus/)
 <!-- BLOG-POST-LIST:END -->
