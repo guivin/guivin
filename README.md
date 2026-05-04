@@ -27,6 +27,7 @@
 ## ✍️ Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Recording rules : la feature Prometheus que j&#39;aurais dû connaître bien plus tôt](https://guivin.github.io/blog/prometheus-recording-rules/)
 - [Gérer l&#39;infrastructure et la configuration ensemble : Terraform rencontre Ansible](https://guivin.github.io/blog/gerer-infrastructure-et-configuration-terraform-ansible/)
 - [DIY : Surveiller la température et l&#39;humidité avec DHT22/AM2302 et Prometheus](https://guivin.github.io/blog/surveiller-temperature-humidite-dht22-am2302-prometheus/)
 <!-- BLOG-POST-LIST:END -->
